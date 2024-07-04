@@ -1,0 +1,55 @@
+/* bai tap js */
+.hand i {
+    color: #dc4f72;
+    font-size: 25px;
+}
+
+.col-auto {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.background {
+    background: #D1E7DD;
+    border-radius: 10px;
+    margin: 20px 0;
+    height: 50px;
+    line-height: 50px;
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+.row.content {
+    height: 1500px
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+.nav li {
+    margin: 10px;
+}
+
+.nav a {
+    color: #000;
+    background: #9ebb9a;
+    border-radius: 5px;
+    padding: 5px 20px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.row .active {
+    background: #198754 !important;
+}
+
+
+/* ẩn hiện div lại khách hàng bài 4 */
+#label-connect {
+    display: none;
+}
